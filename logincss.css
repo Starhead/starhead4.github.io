@@ -1,0 +1,53 @@
+
+#header {
+    background-color:rgb(150,150,150);
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:50px;
+    background-color:rgb(75,75,75);
+    height:502px;
+    width:200px;
+    float:left;
+    padding:8px;
+    color: orange;
+}
+#section {
+    width:908px;
+    background-color:red;
+    float:left;
+    padding:30px;	 	 
+}
+
+article{
+
+}
+
+
+#footer {
+    background-color:green;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:20px;	 	 
+}
+
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 10px 10px;
+}
+
+ul#menu li a:hover {
+    background-color: red;
+}
+
+
